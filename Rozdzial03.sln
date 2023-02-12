@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RzutowanieKonwersja", "Rzut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WykrywaniePrzepełnień", "WykrywaniePrzepełnień\WykrywaniePrzepełnień.csproj", "{6AF6A584-9B3C-4EE3-BD84-064B486B3B8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cwiczenie02", "Cwiczenie02\Cwiczenie02.csproj", "{C8E1002B-4C1F-4134-B898-8E01424F25CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{6AF6A584-9B3C-4EE3-BD84-064B486B3B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AF6A584-9B3C-4EE3-BD84-064B486B3B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AF6A584-9B3C-4EE3-BD84-064B486B3B8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8E1002B-4C1F-4134-B898-8E01424F25CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E1002B-4C1F-4134-B898-8E01424F25CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E1002B-4C1F-4134-B898-8E01424F25CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E1002B-4C1F-4134-B898-8E01424F25CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
