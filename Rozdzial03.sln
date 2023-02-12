@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatoryLogiczne", "Operat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatoryBitowe", "OperatoryBitowe\OperatoryBitowe.csproj", "{90817BDF-3455-4D0C-9512-C7A7AE22F64D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstrukcjeWyboru", "InstrukcjeWyboru\InstrukcjeWyboru.csproj", "{1CB9A01F-0A90-4316-A58B-1DB3373D7EBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{90817BDF-3455-4D0C-9512-C7A7AE22F64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90817BDF-3455-4D0C-9512-C7A7AE22F64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90817BDF-3455-4D0C-9512-C7A7AE22F64D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CB9A01F-0A90-4316-A58B-1DB3373D7EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB9A01F-0A90-4316-A58B-1DB3373D7EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB9A01F-0A90-4316-A58B-1DB3373D7EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB9A01F-0A90-4316-A58B-1DB3373D7EBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
