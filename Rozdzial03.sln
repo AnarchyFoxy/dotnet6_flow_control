@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstrukcjeWyboru", "Instruk
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstrukcjeIteracji", "InstrukcjeIteracji\InstrukcjeIteracji.csproj", "{162F935A-4D8B-4493-9AB3-152FF9A22308}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RzutowanieKonwersja", "RzutowanieKonwersja\RzutowanieKonwersja.csproj", "{223D44F8-44BB-4B5C-A0DE-160EA3004BC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{162F935A-4D8B-4493-9AB3-152FF9A22308}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{162F935A-4D8B-4493-9AB3-152FF9A22308}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{162F935A-4D8B-4493-9AB3-152FF9A22308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{223D44F8-44BB-4B5C-A0DE-160EA3004BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223D44F8-44BB-4B5C-A0DE-160EA3004BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223D44F8-44BB-4B5C-A0DE-160EA3004BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223D44F8-44BB-4B5C-A0DE-160EA3004BC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
